@@ -73,3 +73,4 @@ isar-dart.h
 # Coverage
 coverage/
 !packages/isar_flutter_libs/android/src/main/jniLibs/**/libisar.so
+!packages/isar_flutter_libs/android/src/main/jniLibs/**/libisar.so
